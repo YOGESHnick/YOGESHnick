@@ -14,7 +14,9 @@
   <a href="https://www.linkedin.com/in/yogesh-shamlin-shinanth-j-s-6ab98b237/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="fb"/>
   </a>
-  
-  <img src="https://komarev.com/ghpvc/?username=YOGESHnick&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div>
+    <img src="https://komarev.com/ghpvc/?username=YOGESHnick&style=flat-square&color=blue" alt=""/>
 </div>
 
