@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="fb"/>
   </a>
  
-  <a href="https://www.linkedin.com/in/yogesh-shamlin-shinanth-j-s-6ab98b237/">
+  <a href="https://www.facebook.com/profile.php?id=100091867873781">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="fb"/>
   </a>
 </div>
