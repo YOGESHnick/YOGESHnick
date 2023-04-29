@@ -8,7 +8,7 @@
   </a>
   
   <a href=" https://leetcode.com/yogeshshamlin/">
-    <img src="https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="fb"/>
+    <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="fb"/>
   </a>
  
   <a href="https://www.linkedin.com/in/yogesh-shamlin-shinanth-j-s-6ab98b237/">
