@@ -44,12 +44,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>
   <br>
   <img src="https://static.vecteezy.com/system/resources/previews/021/514/755/original/ios-icon-logo-software-phone-apple-symbol-with-name-white-design-mobile-illustration-with-black-background-free-vector.jpg" title="iOS" alt="iOS" width="60" height="60"/>
   <img src="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png" title="iOS" alt="Flutter" width="150" height="40"/>
   <img src="https://nix-united.com/wp-content/uploads/2021/03/preview_800_500.jpg" title="react-native" alt="react-native" width="150" height="70"/>
   <br>
   <img src="https://i.pinimg.com/originals/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg" title="python" alt="python" width="70" height="70" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>
 </div>
    
