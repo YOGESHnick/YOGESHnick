@@ -47,7 +47,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>
   <br>
   <img src="https://static.vecteezy.com/system/resources/previews/021/514/755/original/ios-icon-logo-software-phone-apple-symbol-with-name-white-design-mobile-illustration-with-black-background-free-vector.jpg" title="iOS" alt="iOS" width="60" height="60"/>
-  <img src="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png" title="iOS" alt="Flutter" width="150" height="50"/>
+  <img src="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png" title="iOS" alt="Flutter" width="150" height="40"/>
 
 </div>
    
