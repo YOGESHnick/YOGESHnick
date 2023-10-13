@@ -35,7 +35,6 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
-### hi
   <img src="https://www.desuvit.com/wp-content/uploads/2021/03/mongodb-icon.png" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;
   <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title="Express JS" alt="Express JS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
