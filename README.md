@@ -50,6 +50,7 @@
   <img src="https://nix-united.com/wp-content/uploads/2021/03/preview_800_500.jpg" title="react-native" alt="react-native" width="150" height="70"/>
   <br>
   <img src="https://i.pinimg.com/originals/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg" title="python" alt="python" width="70" height="70" />
+  <img src="https://i.pinimg.com/564x/71/5b/59/715b59c8c7545d9dafb1a04111edde40.jpg" title="python" alt="python" width="70" height="70" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>
 </div>
    
