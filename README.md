@@ -39,7 +39,7 @@
   <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title="Express JS" alt="Express JS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
-  <img src="https://miro.medium.com/v2/resize:fit:1000/0*iFApAuNplslAErbr" title="Git" **alt="Git" width="60" height="60"/>&nbsp; 
+  <img src="https://miro.medium.com/v2/resize:fit:1000/0*iFApAuNplslAErbr" title="Git" **alt="Git" width="60" height="100"/>&nbsp; 
   <img src="https://w7.pngwing.com/pngs/670/396/png-transparent-computer-icons-github-icon-design-logo-github-cat-like-mammal-carnivoran-logo-thumbnail.png" title="Git" **alt="Git" width="60" height="60"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
