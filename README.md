@@ -45,6 +45,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>
+  <br>
+  <img src="https://static.vecteezy.com/system/resources/previews/021/514/755/original/ios-icon-logo-software-phone-apple-symbol-with-name-white-design-mobile-illustration-with-black-background-free-vector.jpg" title="iOS" alt="iOS" width="60" height="60"/>
+  
 </div>
    
   
