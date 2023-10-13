@@ -32,7 +32,7 @@
 
 
 
-### :hammer_and_wrench: Languages and Tools :
+### Familiar Tech :
 
 <div align="center">
   <img src="https://www.desuvit.com/wp-content/uploads/2021/03/mongodb-icon.png" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;
