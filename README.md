@@ -55,3 +55,4 @@
 </div>
    
 ![YOGESHnick's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOGESHnick&theme=gotham&hide_border=false) 
+![YOGESHnick's Stats](https://github-readme-stats.vercel.app/api?username=YOGESHnick&theme=gotham&show_icons=true&hide_border=false&count_private=true)
