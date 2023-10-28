@@ -23,7 +23,9 @@
     I'm Shamlin,<br>
   </h1>
   <hr>
-  <h2>Full Stack Developer</h2>
+  <h1>Full Stack Developer</h1>
+  <hr>
+  <h1>Learning flutter</h1>
 </div>
 
 <div align="center">
