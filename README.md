@@ -54,7 +54,4 @@
   <img src="https://i.pinimg.com/564x/71/5b/59/715b59c8c7545d9dafb1a04111edde40.jpg" title="python" alt="python" width="70" height="70" />
 </div>
    
-<div align="center">
-  ![YOGESHnick's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOGESHnick&theme=gotham&hide_border=false) \
-  
-</div>
+![YOGESHnick's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOGESHnick&theme=gotham&hide_border=false) 
