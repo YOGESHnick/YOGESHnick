@@ -22,7 +22,6 @@
   Hey there <br>
     I'm Shamlin,
   </h1>
-  <hr>
   <h1>Full Stack Developer</h1>
 
 </div>
