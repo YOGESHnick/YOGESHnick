@@ -18,7 +18,7 @@
 
 <div id="badges" align="center">
     <img src="https://komarev.com/ghpvc/?username=YOGESHnick&style=flat-square&color=blue" alt=""/>
-  <h1>
+  <h1 style="color: green;">
   Hey there <br>
     I'm Yogesh Shamlin Shinanth<br>
     Full Stack Developer
