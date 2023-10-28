@@ -21,9 +21,9 @@
   <h1>
   Hey there <br>
     I'm Shamlin,<br>
-    <hr>
-    Full Stack Developer
-</h1>
+  </h1>
+  <hr>
+  <h2>Full Stack Developer</h2>
 </div>
 
 <div align="center">
