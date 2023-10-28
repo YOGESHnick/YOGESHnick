@@ -20,12 +20,11 @@
     <img src="https://komarev.com/ghpvc/?username=YOGESHnick&style=flat-square&color=blue" alt=""/>
   <h1>
   Hey there <br>
-    I'm Shamlin,<br>
+    I'm Shamlin,
   </h1>
   <hr>
   <h1>Full Stack Developer</h1>
-  <hr>
-  <h1>Learning flutter</h1>
+
 </div>
 
 <div align="center">
